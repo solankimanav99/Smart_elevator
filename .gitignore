@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# Secrets
+.env
+
+# Data & model artifacts
+*.db
+*.sqlite3
+*.pt
+*.h5
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
