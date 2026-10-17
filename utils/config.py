@@ -1,0 +1,5 @@
+"""Configuration constants."""
+DEFAULT_LOAD_LIMIT = 500.0  # kg
+DEFAULT_BAUD = 9600
+GRAPH_HISTORY = 20
+UPDATE_INTERVAL_MS = 500
